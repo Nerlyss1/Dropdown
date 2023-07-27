@@ -25,4 +25,7 @@ Ce projet représente un menu déroulant (dropdown) simple réalisé en HTML, CS
    - Ouvrez le fichier `index.html` dans votre navigateur.
    - Cliquez sur le bouton "Modifier" pour faire apparaître ou disparaître le menu déroulant.
 
+## Auteur
+
+Ce projet a été développé par [Nerlyss1](https://github.com/Nerlyss1).
 
